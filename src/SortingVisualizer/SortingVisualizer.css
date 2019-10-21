@@ -1,0 +1,21 @@
+.array-container{
+    position: absolute;
+    transform: rotate(180deg);
+    left: 10%;
+    right: 10%;
+    top: 8%;
+}
+
+.array-bar{
+    width: 3.5px;
+    background-color: rgb(38, 161, 14);
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button{
+
+    transform: rotate(180deg);
+    position: relative;
+    top: 4%;
+}
